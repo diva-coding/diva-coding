@@ -1,4 +1,7 @@
 ## Hi there 👋
+I am a newbie here...
+I’m currently learning about information system.
+Nice to meet you.
 
 <!--
 **diva-coding/diva-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
